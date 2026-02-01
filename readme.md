@@ -67,28 +67,6 @@
 
 ---
 
-- 🎮 **Tic Tac Toe Game**
-  - MVVM + Provider
-  - Play VS Player / Computer
-  - 🔗 Repo coming soon
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RwanHossamEldein&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4081&icon_color=FF4081" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RwanHossamEldein&theme=radical&hide_border=true&background=0D1117&stroke=FF4081&ring=FF4081&fire=FF4081&currStreakLabel=FF4081" width="48%" />
-</div>
-
----
-
-
-## 🐍 Contribution Graph
-
-![Snake Animation](https://raw.githubusercontent.com/RwanHossamEldein/RwanHossamEldein/output/github-contribution-grid-snake.svg)
-
-----------
-
 <div align="center">
 <h2>🎯 Let's Connect!</h2>
 <p>Always open to collaborate on Flutter projects and discuss tech.</p>
@@ -102,3 +80,4 @@
 
 
 </div>
+
