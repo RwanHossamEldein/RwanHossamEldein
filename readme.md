@@ -25,21 +25,20 @@
   </a>
 </div>
 
-<br/>
+</div> <!-- نهاية الهيدر -->
+
+---
 
 ## 👩‍💻 About Me
-<div align="center">
 * 💫 **Computer Science Student** specializing in **Flutter Development**  
 * 🎯 Passionate about building scalable, clean, and user-friendly mobile apps  
 * 📚 Currently exploring **Advanced Flutter, Clean Architecture, and System Design**  
 * 🚀 Actively looking for **Flutter Internship / Junior Flutter Developer** opportunities  
 * 🌟 Sharing knowledge through articles and open-source contributions  
-</div>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-<div align="center">
 
 ### 🚀 Core Development
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -59,8 +58,6 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-</div>
 
 ---
 
