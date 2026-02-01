@@ -63,10 +63,10 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RwanHossamEldein&show_icons=true&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RwanHossamEldein&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=RwanHossamEldein&show_icons=true&theme=radical" alt="Rwan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RwanHossamEldein&layout=compact&theme=radical" alt="Top Languages" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RwanHossamEldein&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RwanHossamEldein&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -84,4 +84,5 @@
 
 > 💬 "The journey matters more than the destination." 
 </div>
+
 
