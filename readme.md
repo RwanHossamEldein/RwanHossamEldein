@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF4081&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Rwan+Hossam;Flutter+Developer+🤍;Passionate+Coder+🚀;Problem+Solver+🎯" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF4081&center=true&vCenter=true&width=500&lines=Hey+👋+I'm+Rwan;Flutter+Developer+🤍;Passionate+Coder+🚀;Problem+Solver+🎯" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -78,6 +78,8 @@
 
 ✨ *If you like my work, feel free to star ⭐ my repositories!*
 
+> 💬 "The journey matters more than the destination." 
 
 </div>
+
 
