@@ -59,17 +59,21 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
+
+
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RwanHossamEldein&show_icons=true&theme=radical" alt="Rwan's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RwanHossamEldein&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=RwanHossamEldein&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RwanHossamEldein&layout=compact&theme=radical" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RwanHossamEldein&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RwanHossamEldein&theme=radical" />
 </div>
 
 ---
+
+
 
 <div align="center">
 <h2>🎯 Let's Connect!</h2>
@@ -84,5 +88,6 @@
 
 > 💬 "The journey matters more than the destination." 
 </div>
+
 
 
