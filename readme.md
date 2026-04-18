@@ -25,7 +25,7 @@
   </a>
 </div>
 
-</div> <!-- نهاية الهيدر -->
+</div> 
 
 ---
 
@@ -80,7 +80,7 @@
 <p>Always open to collaborate on Flutter projects and discuss tech.</p>
 
 📫 **Reach me at:**  
-[LinkedIn](https://www.linkedin.com/in/rwan-hossam-08ba39295) | [Email](mailto:rwanhossam0@gmail.com) | [Portfolio](https://rwanhossameldein.github.io/portfolio/)
+[LinkedIn](https://www.linkedin.com/in/rwan-hossam-08ba39295) | [Email](mailto:rwanhossam0@gmail.com) | [Portfolio](https://rwanhossam.lovable.app)
 
 <br/>
 
